@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jb-lopez&show_icons=true&theme=dark&locale=en" alt="jb-lopez" />
+<img src="https://github-readme-stats.vercel.app/api?username=jb-lopez&show_icons=true&theme=dark&locale=en" alt="jb-lopez" />
 
+&nbsp;
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jb-lopez&show_icons=true&theme=dark&locale=en&layout=compact" alt="jb-lopez" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jb-lopez&show_icons=true&theme=dark&locale=en&layout=compact" alt="jb-lopez" />
+&nbsp;
 
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jb-lopez&theme=dark" alt="jb-lopez" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jb-lopez&theme=dark" alt="jb-lopez" />
