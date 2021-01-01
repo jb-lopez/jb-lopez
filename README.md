@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **jb-lopez/jb-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jb-lopez&show_icons=true&theme=dark&locale=en" alt="jb-lopez" />
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jb-lopez&show_icons=true&theme=dark&locale=en&layout=compact" alt="jb-lopez" />
+
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jb-lopez&theme=dark" alt="jb-lopez" />
