@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=jb-lopez&show_icons=true&theme=dark&count_private=true&locale=en&bg_color=000000" alt="jb-lopez" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lopezcoder&theme=dark&layout=compact&custom_title=Time%20by%20language%20last%207%20days&bg_color=000000" alt="jb-lopez" />
-<br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jb-lopez&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=000000" alt="jb-lopez" />
-<br/><br/><img src="https://github-readme-streak-stats.herokuapp.com?user=jb-lopez&theme=chartreuse-dark&background=000000" alt="jb-lopez" />
-<br/><br/><img src="https://activity-graph.herokuapp.com/graph?username=jb-lopez&theme=react-dark&bg_color=000000" alt="jb-lopez" />
+<div style="display: grid; grid-template-columns: 1fr 1fr;width: max-content;align-items: center;justify-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jb-lopez&amp;show_icons=true&amp;theme=dark&amp;count_private=true&amp;locale=en&amp;bg_color=000000" alt="jb-lopez" style="grid-area: 1 / 1 / 2 / 2;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jb-lopez&amp;theme=chartreuse-dark&amp;background=000000" alt="jb-lopez" style="grid-area: 1 / 2 / 2 / 3;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lopezcoder&amp;theme=dark&amp;layout=compact&amp;custom_title=Time%20by%20language%20last%207%20days&amp;bg_color=000000" alt="jb-lopez">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jb-lopez&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact&amp;bg_color=000000" alt="jb-lopez">
+    <img src="https://activity-graph.herokuapp.com/graph?username=jb-lopez&amp;theme=react-dark&amp;bg_color=000000" alt="jb-lopez" style="grid-area: 3 / 1 / 4 / 3;">
+</div>
