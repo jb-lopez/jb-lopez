@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=jb-lopez&show_icons=true&theme=dark&count_private=true&locale=en" alt="jb-lopez" />
+<img src="https://github-readme-stats.vercel.app/api?username=jb-lopez&show_icons=true&theme=dark&count_private=true&locale=en&bg_color=000000" alt="jb-lopez" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lopezcoder&theme=dark&layout=compact&custom_title=Time%20by%20language%20last%207%20days" alt="jb-lopez" />
-<br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jb-lopez&show_icons=true&theme=dark&locale=en&layout=compact" alt="jb-lopez" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lopezcoder&theme=dark&layout=compact&custom_title=Time%20by%20language%20last%207%20days&bg_color=000000" alt="jb-lopez" />
+<br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jb-lopez&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=000000" alt="jb-lopez" />
 <br/><br/><img src="https://github-readme-streak-stats.herokuapp.com?user=jb-lopez&theme=chartreuse-dark&background=000000" alt="jb-lopez" />
 <br/><br/><img src="https://activity-graph.herokuapp.com/graph?username=jb-lopez&theme=react-dark&bg_color=000000" alt="jb-lopez" />
