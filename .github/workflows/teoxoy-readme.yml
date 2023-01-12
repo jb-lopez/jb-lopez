@@ -15,7 +15,7 @@ jobs:
       uses: teoxoy/profile-readme-stats@v1
       with:
         token: ${{ secrets.METRICS_TOKEN }}
-        readme: README-TEMP.md
+        readme: README.md
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
