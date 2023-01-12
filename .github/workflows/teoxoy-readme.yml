@@ -12,7 +12,7 @@ jobs:
     - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v1
       with:
-        token: ${{ secrets.USER_TOKEN }}
+        token: ${{ secrets.METRICS_TOKEN }}
         readme: README-TEMP.md
     - name: Update README.md
       run: |
