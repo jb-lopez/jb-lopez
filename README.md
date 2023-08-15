@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 -->
 
-I joined Github **8** years ago. Since then I pushed **15597** commits, opened **23** issues, submitted **163** pull requests, <!-- received **3** stars across **11** personal projects, --> and contributed to **62** public repositories.
+I joined Github **8** years ago. Since then I pushed **15616** commits, opened **23** issues, submitted **163** pull requests, <!-- received **3** stars across **12** personal projects, --> and contributed to **62** public repositories.
 
 Most used languages across my projects:
 
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B155.9%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B132.3%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.4%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.3%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.8%25)
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B10.5%25)
 ![Less](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%231d365d&message=Less%EF%B8%B10.4%25)
