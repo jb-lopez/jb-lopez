@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-I joined Github **9** years ago. Since then I pushed **16347** commits, opened **26** issues, submitted **249** pull requests, <!-- received **6** stars across **12** personal projects, --> and contributed to **78** public repositories.
+I joined Github **9** years ago. Since then I pushed **16347** commits, opened **26** issues, submitted **249** pull requests, <!-- received **6** stars across **12** personal projects, --> and contributed to **77** public repositories.
 
 Most used languages across my projects:
 
